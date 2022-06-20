@@ -12,9 +12,9 @@
 from earth import AllPopulation
 from mcu import InfinityGauntlet
 
-entire_population = AllPopulation()
+all_population = AllPopulation()
 
-infinity_gauntlet = InfinityGauntlet(entire_population)
+infinity_gauntlet = InfinityGauntlet(all_population)
 
 infinity_gauntlet.snap(affected_population = lambda x: x.food_type=='vegetarian')
 
