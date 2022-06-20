@@ -1,16 +1,21 @@
 ### Hi there 👋
 
-<!--
-**prtvrj/prtvrj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on learning Git
+- 🌱 I’m currently learning Full stack web-dev
+- 💬 Ask me about the MCU
+- 📫 How to reach me... here on Github @prtvrj
+- 😄 Pronouns: he/him
+- ⚡ I agree with Thanos, so I wrote a script for him...
 
-Here are some ideas to get you started:
+```python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+from earth import AllPopulation
+from mcu import InfinityGauntlet
+
+entire_population = AllPopulation()
+
+infinity_gauntlet = InfinityGauntlet(entire_population)
+
+infinity_gauntlet.snap(affected_population = lambda x: x.food_type=='vegetarian')
+
+```
